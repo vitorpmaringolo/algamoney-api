@@ -73,7 +73,7 @@ public class Lancamento {
 		return dataVencimento;
 	}
 
-	public void setDataVecimento(LocalDate dataVencimento) {
+	public void setDataVencimento(LocalDate dataVencimento) {
 		this.dataVencimento = dataVencimento;
 	}
 
